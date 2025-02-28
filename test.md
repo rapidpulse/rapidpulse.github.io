@@ -8,6 +8,9 @@ permalink: /test
 ## Testing Jekyll
 
 ### Section 1
-```
-This should render as code
+```python
+title = 'Test'
+
+def my_function:
+    title 
 ```
