@@ -1,2 +1,2 @@
-# rapidpulse.github.io
+# www.rapidpulse.dev
 Public GitHub Pages site

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "My Test"
 permalink: /test
 ---
@@ -14,3 +14,5 @@ title = 'Test'
 def my_function:
     title 
 ```
+
+[back](./)
