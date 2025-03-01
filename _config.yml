@@ -1,8 +1,6 @@
 title: Jim's homepage
 description: Bookmark this to keep an eye on my project updates!
-theme: just-the-docs
 
-url: https://rapidpulse.github.io/rapidpulse.github.io
-
-aux_links: # remove if you don't want this link to appear on your pages
-  Template Repository: https://github.com/rapidpulse/rapidpulse.github.io
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
